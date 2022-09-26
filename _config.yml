@@ -1,12 +1,13 @@
 title: The Ultimate Nuzlocke Ruleset
 description: The best assortment of rules for a Nuzlocke run, or at least my own definition of it
+author:
+  name: Adrian Castro
+  email: adrifcastr@gmail.com
 markdown: GML
 remote_theme: jekyll/minima
-twitter_username: castdrian
-github_username: castdrian
-rss: None
 
 minima:
-  skin: dark
-
-
+  skin: auto
+  social_links:
+    github: castdrian
+    twitter: castdrian
