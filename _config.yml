@@ -2,8 +2,11 @@ title: The Ultimate Nuzlocke Ruleset
 description: The best assortment of rules for a Nuzlocke run, or at least my own definition of it
 markdown: GML
 remote_theme: jekyll/minima
-minima:
-  skin: dark
 twitter_username: castdrian
 github_username: castdrian
+rss: None
+
+minima:
+  skin: dark
+
 
