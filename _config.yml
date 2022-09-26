@@ -3,7 +3,7 @@ description: The best assortment of rules for a Nuzlocke run, or at least my own
 author:
   name: Adrian Castro
   email: adrifcastr@gmail.com
-markdown: GML
+markdown: GFM
 remote_theme: jekyll/minima
 
 minima:
