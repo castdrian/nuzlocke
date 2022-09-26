@@ -32,6 +32,7 @@
  - You may only use one healing or battle item per initiated battle.
  - This number increases `+1` for every heal or battle item used by your opponent.
  - Held items that heal or boost stats are not affected by the Heal Clause.
+ - You may heal at any time when not engaged in a battle.
  
 ### Nuzlocke End
  - You loose the challenge if your entire team faints during a battle and you receive the `blackout screen`.
