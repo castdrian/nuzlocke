@@ -1,5 +1,6 @@
 markdown: GML
-theme:
-  minima:
+theme: minima
+
+minima:
     skin: dark
  
