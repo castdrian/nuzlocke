@@ -1,6 +1,10 @@
+title: The Ultimate Nuzelocke Ruleset
+description: The best assortment of rules for a Nuzlocke run, or at least my own definition of it
 markdown: GML
 theme: minima
 
 minima:
     skin: dark
  
+twitter_username: castdrian
+github_username: castdrian
