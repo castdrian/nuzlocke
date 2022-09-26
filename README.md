@@ -33,7 +33,10 @@
  - This number increases `+1` for every heal or battle item used by your opponent.
  - Held items that heal or boost stats are not affected by the Heal Clause.
  - You may heal at any time when not engaged in a battle.
- 
+
+### Nickname Clause
+ - Every caught Pokémon must be given a nickname.
+
 ### Nuzlocke End
  - You loose the challenge if your entire team faints during a battle and you receive the `blackout screen`.
  - In case of a loss, the challenge ends and the rules no longer apply to the playthrough.
